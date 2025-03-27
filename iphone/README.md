@@ -1,18 +1,29 @@
-## Getting Started
+# iPhone 2007 📱
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto simula o funcionamento de um iPhone 2007, recriando funcionalidades básicas do sistema operacional.
 
-## Folder Structure
+## 🚀 Funcionalidades
 
-The workspace contains two folders by default, where:
+- Realizar chamadas.
+- Enviar mensagens.
+- Reproduzir músicas.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠 Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- **Java** – Implementação do sistema do iPhone.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## ▶️ Como Executar
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/lui1zz/iphone-2007.git
+   ```
+2. Navegue até a pasta do projeto:
+   ```sh
+   cd iphone-2007/iphone
+   ```
+3. Compile e execute o programa:
+   ```sh
+   javac src/*.java
+   java src.Main
+   ```
